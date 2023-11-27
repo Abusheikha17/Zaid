@@ -1,4 +1,4 @@
 # Zaid
 ## Installation
 run 'python install -r requarment.txt'
-![Screenshot 2023-11-27 at 3 22 41 PM (2)](https://github.com/Abusheikha17/Zaid/assets/152203294/3cbb84de-3cee-4481-a517-9660334e7c10)
+<img width="359" alt="Screenshot 2023-11-27 at 3 27 46 PM" src="https://github.com/Abusheikha17/Zaid/assets/152203294/b3e54009-98c3-4490-b190-3f75beb3e450">
